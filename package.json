@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.16",
+    "openai": "^4.55.7"
+  },
+  "name": "ai-with-node",
+  "version": "1.0.0",
+  "description": "ai-powered apps with openai and node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mihaiwebdev/ai-apps-with-node.git"
+  },
+  "author": "Mihai Sava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihaiwebdev/ai-apps-with-node/issues"
+  },
+  "homepage": "https://github.com/mihaiwebdev/ai-apps-with-node#readme"
+}
